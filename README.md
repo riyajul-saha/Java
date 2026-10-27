@@ -43,7 +43,7 @@ Java/
 ```bash
 # 1. Clone the repository
 git clone https://github.com/riyajul-saha/Java.git
-cd Java
+cd Java/code/
 
 # 2. Compile a program
 javac Question1.java
@@ -59,34 +59,11 @@ java Question1 arg1 arg2 arg3
 | No. | Question | File |
 |-----|----------|------|
 | 1 | To find the sum of any number of integers entered as command line arguments. | [Question1.java](Question1.java) |
+| 2 | To find the factorial of a given number | [Question2.java](Question2.java) |
 
 <!-- Add new rows above this line -->
 
 ---
-
-### Question 1
-
-**Question:** To find the sum of any number of integers entered as command line arguments.
-
-**File:** [`Question1.java`](Question1.java)
-
-**Run:**
-
-```bash
-javac Question1.java
-java Question1 10 20 30
-```
-
-**Sample Output:**
-
-```
-Sum = 60
-```
-
-<!-- Add new question sections above this line -->
-
----
-
 ## 🤝 Contributing
 
 Suggestions and improvements are welcome. Feel free to open an issue or submit a pull request.
