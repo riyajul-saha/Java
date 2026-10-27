@@ -58,8 +58,8 @@ java Question1 arg1 arg2 arg3
 
 | No. | Question | File |
 |-----|----------|------|
-| 1 | To find the sum of any number of integers entered as command line arguments. | [Question1.java](Question1.java) |
-| 2 | To find the factorial of a given number | [Question2.java](Question2.java) |
+| 1 | To find the sum of any number of integers entered as command line arguments. | [Question1.java](https://github.com/riyajul-saha/Java/blob/main/code/Question1.java) |
+| 2 | To find the factorial of a given number | [Question2.java](https://github.com/riyajul-saha/Java/blob/main/code/Question2.java) |
 
 <!-- Add new rows above this line -->
 
